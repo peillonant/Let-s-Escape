@@ -1,0 +1,241 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1745504828834897, "dur":39367, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745504828874269, "dur":161, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745504828874456, "dur":145, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745504828876003, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Build/Let's Escape_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745504828874616, "dur":2332, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745504828876949, "dur":1888126, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745504830765076, "dur":89, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745504830765166, "dur":275, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745504830765507, "dur":92, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745504830765803, "dur":294, "ph":"X", "name": "EmitBuildFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745504830765803, "dur":295, "ph":"X", "name": "EmitBuildFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745504830766098, "dur":10243, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1745504828875043, "dur":1918, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745504828876962, "dur":194, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745504828877156, "dur":143, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745504828877299, "dur":952, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745504828878542, "dur":162533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1745504829041396, "dur":214, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745504829044354, "dur":211, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745504829041621, "dur":2954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745504829044628, "dur":809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745504829045448, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745504829045520, "dur":880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745504829046433, "dur":617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745504829047106, "dur":1157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745504829048311, "dur":519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745504829048876, "dur":40134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745504829089051, "dur":1241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745504829090303, "dur":160, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745504829090472, "dur":3567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745504829094077, "dur":568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745504829094692, "dur":531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745504829095284, "dur":546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745504829095842, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745504829095941, "dur":54766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745504829154653, "dur":93, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745504829150781, "dur":3979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745504829154825, "dur":13656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745504829168527, "dur":1312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745504829169906, "dur":637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745504829170642, "dur":9748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745504829182173, "dur":219, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745504829180454, "dur":1948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745504829182421, "dur":20149, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\WindowsPlayer_player_Master_mono_x64.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1745504829182420, "dur":20152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/WindowsPlayer_player_Master_mono_x64.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1745504829202585, "dur":796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/WindowsPlayer_player_Master_mono_x64.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1745504829203393, "dur":1561661, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745504828875250, "dur":1728, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745504828876978, "dur":220, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745504828877198, "dur":1050, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745504828878438, "dur":32424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745504828910913, "dur":438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1745504828911562, "dur":461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1745504828912154, "dur":770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745504828914263, "dur":166, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745504828913029, "dur":1414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape.exe" }}
+,{ "pid":12345, "tid":2, "ts":1745504828914763, "dur":144348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1745504829059130, "dur":29452, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745504829088722, "dur":897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745504829089654, "dur":570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745504829090263, "dur":3758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745504829094155, "dur":930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745504829095142, "dur":570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745504829095749, "dur":54701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745504829150516, "dur":870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745504829151408, "dur":2684, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745504829154107, "dur":658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745504829154813, "dur":13743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745504829168601, "dur":1119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745504829169833, "dur":824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745504829170702, "dur":9276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745504829179998, "dur":160, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745504829181236, "dur":302, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745504829180171, "dur":1389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745504829181698, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745504829181791, "dur":7693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745504829189502, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745504829189593, "dur":402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1745504829190024, "dur":574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/resources.assets" }}
+,{ "pid":12345, "tid":2, "ts":1745504829190646, "dur":687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1745504829191398, "dur":625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1745504829192076, "dur":1572988, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745504828874991, "dur":1962, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745504828876954, "dur":1288, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745504828878274, "dur":6051, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1745504828884331, "dur":627, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1745504828885107, "dur":69, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Program Files\\Unity\\Let's Escape\\Let's Escape\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504828885177, "dur":77, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Program Files\\Unity\\Let's Escape\\Let's Escape\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504828885254, "dur":117, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Program Files\\Unity\\Let's Escape\\Let's Escape\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504828885372, "dur":164, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Program Files\\Unity\\Let's Escape\\Let's Escape\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504828885537, "dur":234, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Program Files\\Unity\\Let's Escape\\Let's Escape\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504828885819, "dur":181, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Program Files\\Unity\\Let's Escape\\Let's Escape\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504828886039, "dur":60, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player75c2e13f-inputdata.json" }}
+,{ "pid":12345, "tid":3, "ts":1745504828878273, "dur":7875, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1745504828899849, "dur":85018, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1745504828985678, "dur":5164, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1745504828985677, "dur":5167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/Let's Escape_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1745504828990858, "dur":50395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1745504829041282, "dur":2133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829043457, "dur":931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829044444, "dur":689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829045166, "dur":1379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829046558, "dur":154, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745504829046726, "dur":952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829047720, "dur":807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829048650, "dur":40221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829088909, "dur":773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829089740, "dur":1480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829091276, "dur":2924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829094231, "dur":529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829094773, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745504829094899, "dur":490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829095422, "dur":587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829096022, "dur":53952, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745504829149997, "dur":923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829150936, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745504829151026, "dur":3223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829154270, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745504829154408, "dur":560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829154996, "dur":12979, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745504829167998, "dur":943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829169023, "dur":762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829169840, "dur":710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829170600, "dur":9446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829180072, "dur":210, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745504829181518, "dur":199, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745504829180292, "dur":1434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829181795, "dur":1123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745504829182973, "dur":6886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1745504829191112, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745504829189887, "dur":1286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1745504829191216, "dur":2102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1745504829193343, "dur":1571713, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745504828875008, "dur":1949, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745504828876958, "dur":229, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745504828877187, "dur":1060, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745504828878261, "dur":1867899, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer_Win64_player_mono_x64.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1745504828878248, "dur":1867916, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/UnityPlayer_Win64_player_mono_x64.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1745504830746269, "dur":18714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/UnityPlayer_Win64_player_mono_x64.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1745504828875062, "dur":1902, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745504828876965, "dur":197, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745504828877163, "dur":130, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745504828877293, "dur":955, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745504828878266, "dur":45460, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1745504828878249, "dur":45478, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/UnityCrashHandler64.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1745504828923741, "dur":118047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/UnityCrashHandler64.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1745504829041803, "dur":1368, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745504829044292, "dur":83, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745504829043201, "dur":1185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745504829044446, "dur":751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745504829045230, "dur":777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745504829046053, "dur":646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745504829046729, "dur":1301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745504829048047, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745504829048205, "dur":818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745504829049033, "dur":39549, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745504829088600, "dur":810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745504829089456, "dur":802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745504829090331, "dur":891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745504829091277, "dur":2889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745504829094224, "dur":723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745504829094981, "dur":1178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745504829096170, "dur":53803, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745504829149985, "dur":98, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745504829150085, "dur":1183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745504829151311, "dur":3852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745504829155193, "dur":12784, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745504829168053, "dur":1112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745504829169228, "dur":10524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745504829181399, "dur":309, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745504829179822, "dur":1900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745504829181789, "dur":1304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745504829183169, "dur":6343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1745504829189554, "dur":1170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1745504829190807, "dur":608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1745504829191467, "dur":963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1745504829192440, "dur":1572596, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745504828875100, "dur":1867, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745504828876968, "dur":199, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745504828877205, "dur":1041, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745504828899680, "dur":1077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/app.info" }}
+,{ "pid":12345, "tid":6, "ts":1745504828900776, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745504828901429, "dur":583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1745504828902101, "dur":512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1745504828902664, "dur":983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1745504828903892, "dur":557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1745504828904512, "dur":455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1745504828905085, "dur":484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1745504828905612, "dur":633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1745504828906267, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745504828906498, "dur":467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1745504828907136, "dur":498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1745504828907755, "dur":475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1745504828908296, "dur":464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1745504828908810, "dur":492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1745504828909507, "dur":480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1745504828910206, "dur":434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1745504828910703, "dur":586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1745504828911900, "dur":158, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745504828911368, "dur":697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1745504828912103, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745504828912201, "dur":3714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504828916056, "dur":2133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504828918232, "dur":4319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504828922599, "dur":1405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504828924038, "dur":117300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829041359, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745504829043552, "dur":107, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745504829041493, "dur":2177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829043696, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745504829043890, "dur":837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829044739, "dur":168, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745504829044930, "dur":689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829045651, "dur":952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829046647, "dur":720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829047410, "dur":1122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829048584, "dur":40283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829088941, "dur":1154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829090108, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745504829090182, "dur":4095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829094307, "dur":985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829095330, "dur":691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829096108, "dur":53868, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745504829150011, "dur":1437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829151477, "dur":2445, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745504829153941, "dur":734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829154762, "dur":13623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829168434, "dur":818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829169311, "dur":771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829170124, "dur":683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829170826, "dur":8434, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745504829179316, "dur":975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829180322, "dur":148, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745504829180522, "dur":1419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829181955, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745504829182021, "dur":777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745504829182948, "dur":13474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Let's Escape_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1745504829196435, "dur":1568632, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745504830779368, "dur":1062, "ph":"X", "name": "ProfilerWriteOutput" }
+,
